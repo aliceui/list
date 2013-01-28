@@ -43,3 +43,26 @@
     list-style: none;    
 }
 
+/* ui-dlist */
+
+.ui-dlist {
+    display: inline-block;
+    color: #808080;
+    font-size: 12px;
+    line-height: 2.2;
+}
+
+.ui-dlist-tit {
+    float: left;
+    width: 20%;/* 默认值, 具体根据视觉可改 */
+    text-align: right;
+    margin: 0;
+}
+
+.ui-dlist-det {
+    float: left;
+    width: 80%;/* 默认值，具体根据视觉可改 */
+    text-align: left;
+    margin: 0;
+}
+
