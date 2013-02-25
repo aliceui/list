@@ -2,7 +2,7 @@
     "name": "list",
     "version": "1.0.0",
     "root": "alice",
-    "description": "",
+    "description": "简单的链接列表，以及中间对齐的列表",
     "homepage": "",
     "author": "",
     "repository": {
