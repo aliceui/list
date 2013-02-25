@@ -2,15 +2,15 @@
     "name": "list",
     "version": "1.0.0",
     "root": "alice",
-    "description": "简单的链接列表，以及中间对齐的列表",
+    "description": "通用列表样式。",
     "homepage": "",
     "author": "",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/aliceui/list"
     },
     "bugs": {
-        "url": ""
+        "url": "https://github.com/aliceui/list/issues"
     },
     "license": "MIT",
     "dependencies": {
