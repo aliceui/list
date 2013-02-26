@@ -10,6 +10,8 @@
 
 <link type="text/css" rel="stylesheet" media="screen" href="src/list.css">
 
+### 默认列表
+
 ````html
 <ul class="ui-list">
     <li class="ui-list-item"><a href="#">如何申请认证？</a></li>
@@ -18,6 +20,8 @@
     <li class="ui-list-item"><a href="#">如何申请认证？</a></li>
 </ul>
 ````
+
+### 灰色方块
 
 ````html
 <ul class="ui-list ui-list-gray">
@@ -28,6 +32,8 @@
 </ul>
 ````
 
+### 灰色文字
+
 ````html
 <ul class="ui-list ui-list-graylink">
     <li class="ui-list-item"><a href="#">如何申请认证？</a></li>
@@ -36,6 +42,8 @@
     <li class="ui-list-item"><a href="#">如何申请认证？</a></li>
 </ul>
 ````
+
+### 没有方块
 
 ````html
 <ul class="ui-list ui-list-nosquare">
@@ -46,7 +54,7 @@
 </ul>
 ````
 
-### dlist 中间对齐
+### 中间对齐的列表
 
 ````html
 <dl class="ui-dlist">
