@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "root": "alice",
     "description": "通用列表样式。",
+    "keywords": [
+        "列表"
+    ],
     "homepage": "",
     "author": "",
     "repository": {
