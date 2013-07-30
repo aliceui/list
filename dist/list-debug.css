@@ -1,4 +1,4 @@
-/*! define alice/list/1.0.0/list-debug.css */
+/*! define alice/list/1.0.1/list-debug.css */
 /* alice.list 样式模块 */
 
 .ui-list {
@@ -10,13 +10,17 @@
 .ui-list-item {
     font-size: 9px;
     line-height: 20px;
-    color: #08c;
 }
 .ui-list-item a {
-    font-size: 12px;
     line-height: 20px;
     text-decoration: none;
-    vertical-align: middle;
+    color: #08c;    
+}
+
+.ui-list-item a,
+.ui-list-item span.ui-list-item-text {
+    font-size: 12px;
+    vertical-align: middle;    
 }
 
 .ui-list-item a:hover {
