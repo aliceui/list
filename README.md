@@ -58,10 +58,18 @@
 
 ````html
 <ul class="ui-list">
-    <li class="ui-list-item"><span>如何申请认证？</span></li>
-    <li class="ui-list-item"><span>如何申请认证？</span></li>
-    <li class="ui-list-item"><span>支付宝数字证书有什么作用？</span></li>
-    <li class="ui-list-item"><span>如何申请认证？</span></li>
+    <li class="ui-list-item">
+        <span class="ui-list-item-text">如何申请认证？</span>
+    </li>
+    <li class="ui-list-item">
+        <span class="ui-list-item-text">如何申请认证？</span>
+    </li>
+    <li class="ui-list-item">
+        <span class="ui-list-item-text">支付宝数字证书有什么作用？</span>
+    </li>
+    <li class="ui-list-item">
+        <span class="ui-list-item-text">如何申请认证？</span>
+    </li>
 </ul>
 ````
 

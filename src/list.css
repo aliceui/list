@@ -17,7 +17,7 @@
 }
 
 .ui-list-item a,
-.ui-list-item span {
+.ui-list-item span.ui-list-item-text {
     font-size: 12px;
     vertical-align: middle;    
 }
