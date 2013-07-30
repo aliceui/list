@@ -54,6 +54,17 @@
 </ul>
 ````
 
+### 不是链接
+
+````html
+<ul class="ui-list">
+    <li class="ui-list-item"><span>如何申请认证？</span></li>
+    <li class="ui-list-item"><span>如何申请认证？</span></li>
+    <li class="ui-list-item"><span>支付宝数字证书有什么作用？</span></li>
+    <li class="ui-list-item"><span>如何申请认证？</span></li>
+</ul>
+````
+
 ### 中间对齐的列表
 
 ````html
