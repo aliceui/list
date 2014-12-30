@@ -8,7 +8,7 @@
 
 ## 演示
 
-<link type="text/css" rel="stylesheet" media="screen" href="src/list.css">
+<link type="text/css" rel="stylesheet" media="screen" href="index.css">
 
 ### 默认列表
 
