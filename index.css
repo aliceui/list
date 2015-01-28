@@ -42,7 +42,8 @@
 
 /* 没有小图标的 */
 .ui-list-nosquare {
-    list-style: none;    
+    list-style: none;   
+    +list-style-position:outside; 
 }
 
 /* ui-dlist */
